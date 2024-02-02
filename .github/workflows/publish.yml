@@ -5,7 +5,8 @@ on:
       - main
 permissions:
   packages: write
-  contents: read
+  contents: write
+  
 jobs:
   publish:
     runs-on: ubuntu-latest
