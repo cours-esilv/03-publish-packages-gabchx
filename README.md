@@ -103,6 +103,9 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You built a fully deployable artifact.
 - You did so using GitHub Actions and GitHub Packages!
 
+Merci !
+![screenshot of win](.github/images/win.png)
+
 <footer>
 
 <!--
